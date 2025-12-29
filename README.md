@@ -1,0 +1,1 @@
+Este projeto apresenta códigos desenvolvidos para a resolução do Problema do Caixeiro Viajante (TSP), aplicados a instâncias cartesianas da TSPLIB, considerando inicialmente conjuntos de dados com até 1000 pontos.
